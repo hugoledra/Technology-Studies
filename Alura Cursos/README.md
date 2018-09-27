@@ -1,1 +1,1 @@
-# Portal online de cursos em tecnologia.
+Portal de cursos em tecnologia.
