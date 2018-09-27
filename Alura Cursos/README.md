@@ -1,10 +1,10 @@
-###### Portal de cursos em tecnologia.
+###### Courses in technology.
 
-**Cursos realizados:**
+**Completed courses:**
   
-  *[Curso Linux I: Conhecendo e utilizando o terminal](https://cursos.alura.com.br/course/linux-ubuntu)
-  - Trabalhando com arquivos e diretórios
-  - Mais sobre redirecionamento e caracteres coringa no bash
-  - Manipulando, compactando e descompactando arquivos.
-  - Mais sobre compactação e descompactação e comandos do terminal
-  - Edição de arquivos com o VI: inclusão, alteração, exclusão, repetição
+  *[Linux Course I: Knowing and using the terminal](https://cursos.alura.com.br/course/linux-ubuntu)
+  - Working with Files and Directories
+  - More about redirect and wildcard characters in bash
+  - Manipulating, compressing and unzipping files.
+  - More about compression and unpacking and terminal commands
+  - Editing files with the VI: adding, changing, deleting, repeating
