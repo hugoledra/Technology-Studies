@@ -2,6 +2,18 @@
 
 **Completed courses:**
   
+  [Git Course: Control and share your code](https://cursos.alura.com.br/course/git)
+  - Introduction to version control with Git
+  - The basic Git cycle
+  - Synchronizing data with the repository
+  - Work organization with branches
+  - Conflict resolution
+  - Good practices in using Git
+  - Advanced change control
+  - Contribution with opensource, advanced techniques and productivity with Git
+  - Making advanced merges with Cherry Pick
+  - Using Git through Visual Interfaces
+  
   [Linux II course: Programs, processes and packages](https://cursos.alura.com.br/course/linux-ubuntu-processos)
   - Kill, ps, grep, killall, top, jobs, bg, fg, pstree, &
   - Scripts and execute permissions: sh and chmod
