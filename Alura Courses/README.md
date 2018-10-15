@@ -2,6 +2,13 @@
 
 **Completed courses:**
   
+  [Vagrant and Puppet Course: Creation and provision of virtual machines](https://cursos.alura.com.br/course/devops-com-vagrant-e-puppet)
+ - Deploying a web application
+ - Provisioning a MySQL
+ - Configuring Environments
+ - Auto provisioning
+ - Running on cloud AWS
+    
   [Git Course: Control and share your code](https://cursos.alura.com.br/course/git)
   - Introduction to version control with Git
   - The basic Git cycle
