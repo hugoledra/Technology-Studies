@@ -2,6 +2,16 @@
 
 **Completed courses:**
   
+  [Ansible Course: Your Infrastructure as a Code](https://cursos.alura.com.br/course/infraestrutura-como-codigo-com-ansible)
+ - Getting Started with Ansible
+ - Creation of the first Playbook
+ - Applying good practices
+ - Preparing the database
+ - Server installation and application deploy
+ - Separating database and application
+ - Working with variables and templates
+ - Using roles, dependencies, and defaults
+  
   [Vagrant and Puppet Course: Creation and provision of virtual machines](https://cursos.alura.com.br/course/devops-com-vagrant-e-puppet)
  - Deploying a web application
  - Provisioning a MySQL
