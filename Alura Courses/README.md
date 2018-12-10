@@ -2,22 +2,30 @@
 
 **Completed courses:**
   
+  [Docker Course: Creating Non-Headache Containers](https://cursos.alura.com.br/course/docker-e-docker-compose)
+  - Introduction to Docker
+  - Working with images
+  - Using volumes
+  - Building our own images
+  - Communication between containers
+  - Working with Docker Compose
+  
   [Ansible Course: Your Infrastructure as a Code](https://cursos.alura.com.br/course/infraestrutura-como-codigo-com-ansible)
- - Getting Started with Ansible
- - Creation of the first Playbook
- - Applying good practices
- - Preparing the database
- - Server installation and application deploy
- - Separating database and application
- - Working with variables and templates
- - Using roles, dependencies, and defaults
+  - Getting Started with Ansible
+  - Creation of the first Playbook
+  - Applying good practices
+  - Preparing the database
+  - Server installation and application deploy
+  - Separating database and application
+  - Working with variables and templates
+  - Using roles, dependencies, and defaults
   
   [Vagrant and Puppet Course: Creation and provision of virtual machines](https://cursos.alura.com.br/course/devops-com-vagrant-e-puppet)
- - Deploying a web application
- - Provisioning a MySQL
- - Configuring Environments
- - Auto provisioning
- - Running on cloud AWS
+  - Deploying a web application
+  - Provisioning a MySQL
+  - Configuring Environments
+  - Auto provisioning
+  - Running on cloud AWS
     
   [Git Course: Control and share your code](https://cursos.alura.com.br/course/git)
   - Introduction to version control with Git
