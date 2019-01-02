@@ -39,6 +39,15 @@
   - Making advanced merges with Cherry Pick
   - Using Git through Visual Interfaces
   
+  [Amazon S3 course: Manipulate and store objects in the cloud](https://cursos.alura.com.br/course/aws-s3-manipule-e-armazene-na-nuvem)
+  - Getting Started
+  - Static Hosting on the Amazon S3
+  - AWS through the terminal
+  - User group access policies
+  - A programmatic view with the SDK
+  - Warranty Versioning
+  - Storage and life cycle classes
+    
   [Linux II course: Programs, processes and packages](https://cursos.alura.com.br/course/linux-ubuntu-processos)
   - Kill, ps, grep, killall, top, jobs, bg, fg, pstree, &
   - Scripts and execute permissions: sh and chmod
