@@ -38,7 +38,18 @@
   - Contribution with opensource, advanced techniques and productivity with Git
   - Making advanced merges with Cherry Pick
   - Using Git through Visual Interfaces
-  
+
+  [Amazon EC2 Course: Deploy your webapp with high availability and scalability](https://cursos.alura.com.br/course/introducao-ao-cloud-do-ec2-no-aws)
+  - Introduction to Cloud Computing
+  - Setting up our first environment on EC2
+  - Climbing the database with RDS
+  - More machines on EC2
+  - Horizontal Scale with Classic Load Balancer
+  - Publishing different versions with Application Load Balancer
+  - Using Sticky Session
+  - Climbing EC2 automatically
+  - Configuring EC2 with AWS CLI
+
   [Amazon S3 course: Manipulate and store objects in the cloud](https://cursos.alura.com.br/course/aws-s3-manipule-e-armazene-na-nuvem)
   - Getting Started
   - Static Hosting on the Amazon S3
