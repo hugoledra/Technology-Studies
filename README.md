@@ -1,5 +1,5 @@
 ## Technology-Studies
-Repository for technology courses
+Repository for technology courses and books
 
 List of Completed Courses:
 ##### [Details of Courses Alura](https://github.com/hugoledra/Technology-Studies/blob/master/Alura%20Courses/README.md) - Online Technology Courses
