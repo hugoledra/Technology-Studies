@@ -1,6 +1,9 @@
 ## Technology-Studies
 Repository for technology courses and books
 
+Books:
+  - Book DevOps na Prática by Danilo Sato > [Buy the Kindle book here (Portuguese language)](https://www.amazon.com.br/DevOps-pr%C3%A1tica-software-confi%C3%A1vel-automatizada-ebook/dp/B00VRS7WRS/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1545829621&sr=1-1&keywords=devops)
+  
 List of Completed Courses:
 ##### [Details of Courses Alura](https://github.com/hugoledra/Technology-Studies/blob/master/Alura%20Courses/README.md) - Online Technology Courses
   - [Docker Course: Creating Non-Headache Containers](https://cursos.alura.com.br/course/docker-e-docker-compose)
