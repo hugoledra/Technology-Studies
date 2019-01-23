@@ -10,6 +10,13 @@
   - Communication between containers
   - Working with Docker Compose
   
+  [Continuous Integration: Maturity and Productivity in Software Development](https://cursos.alura.com.br/course/integracao-continua-jenkins)
+  - My first build
+  - Build Continuous and Notifications with Jenkins
+  - Quality Feedback: Automated Testing
+  - Continuous Improvement with SonarQube
+  - Branching strategies
+  
   [Ansible Course: Your Infrastructure as a Code](https://cursos.alura.com.br/course/infraestrutura-como-codigo-com-ansible)
   - Getting Started with Ansible
   - Creation of the first Playbook
