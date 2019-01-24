@@ -6,6 +6,7 @@ Books:
   
 List of Completed Courses:
 ##### [Details of Courses Alura](https://github.com/hugoledra/Technology-Studies/blob/master/Alura%20Courses/README.md) - Online Technology Courses
+  - [Google Cloud Compute Engine: Scalability and High Availability](https://cursos.alura.com.br/course/google-cloud-compute-engine)
   - [Docker Course: Creating Non-Headache Containers](https://cursos.alura.com.br/course/docker-e-docker-compose)
   - [Continuous Integration: Maturity and Productivity in Software Development](https://cursos.alura.com.br/course/integracao-continua-jenkins)
   - [Ansible Course: Your Infrastructure as a Code](https://cursos.alura.com.br/course/infraestrutura-como-codigo-com-ansible)
