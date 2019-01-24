@@ -2,6 +2,13 @@
 
 **Completed courses:**
   
+  [Google Cloud Compute Engine: Scalability and High Availability](https://cursos.alura.com.br/course/google-cloud-compute-engine)
+  - Provisioning an application
+  - Using CLI gcloud
+  - Preparing the front-end
+  - Climbing the site
+  - High Availability
+    
   [Docker Course: Creating Non-Headache Containers](https://cursos.alura.com.br/course/docker-e-docker-compose)
   - Introduction to Docker
   - Working with images
