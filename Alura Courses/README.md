@@ -2,6 +2,15 @@
 
 **Completed courses:**
   
+  [Amazon ECS: Manage Docker on the AWS Cloud](https://cursos.alura.com.br/course/docker-na-amazon-ecs)
+  - Getting to Know the Elastic Container Service
+  - Rehearsing Orchestration
+  - Preparing our environment
+  - Elastic Container Registry
+  - Working with Tasks
+  - Services, the Master of the Orchestra
+  - Concert Time
+  
   [Google Cloud Compute Engine: Scalability and High Availability](https://cursos.alura.com.br/course/google-cloud-compute-engine)
   - Provisioning an application
   - Using CLI gcloud
