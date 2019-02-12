@@ -2,6 +2,13 @@
 
 **Completed courses:**
   
+  [Kubernetes: Introduction to container orchestration](https://cursos.alura.com.br/course/kubernetes)
+  - Introducing Kubernetes
+  - Pod and Deployment
+  - Using the services
+  - Understanding StatefulSet
+  - Deploy in Google Cloud
+  
   [Amazon ECS: Manage Docker on the AWS Cloud](https://cursos.alura.com.br/course/docker-na-amazon-ecs)
   - Getting to Know the Elastic Container Service
   - Rehearsing Orchestration
