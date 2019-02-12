@@ -6,6 +6,7 @@ Books:
   
 List of Completed Courses:
 ##### [Details of Courses Alura](https://github.com/hugoledra/Technology-Studies/blob/master/Alura%20Courses/README.md) - Online Technology Courses
+  - [Kubernetes: Introduction to container orchestration](https://cursos.alura.com.br/course/kubernetes)
   - [Amazon ECS: Manage Docker on the AWS Cloud](https://cursos.alura.com.br/course/docker-na-amazon-ecs)
   - [Google Cloud Compute Engine: Scalability and High Availability](https://cursos.alura.com.br/course/google-cloud-compute-engine)
   - [Docker Course: Creating Non-Headache Containers](https://cursos.alura.com.br/course/docker-e-docker-compose)
