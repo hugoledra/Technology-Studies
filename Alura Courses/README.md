@@ -88,7 +88,18 @@
   - A programmatic view with the SDK
   - Warranty Versioning
   - Storage and life cycle classes
-    
+  
+  [Linux LPI Essentials Certification Part 1: Evolution and Distributions](https://cursos.alura.com.br/course/linux-essentials-1)
+  - Linux evolution: from minix to linux
+  - What Linux Versions Have in Common
+  - Firefox, Thunderbird, OpenOffice and LibreOffice
+  - Gimp and other applications
+  - Applications for servers: Postfix, Openldap, Bind, Dnsmasq
+  - Installing and testing Ubuntu Server
+  - Apt-cache and apt-get
+  - Fedora
+  - CentOS
+  
   [Linux II course: Programs, processes and packages](https://cursos.alura.com.br/course/linux-ubuntu-processos)
   - Kill, ps, grep, killall, top, jobs, bg, fg, pstree, &
   - Scripts and execute permissions: sh and chmod
