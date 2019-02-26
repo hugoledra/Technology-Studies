@@ -16,5 +16,6 @@ List of Completed Courses:
   - [Git Course: Control and share your code](https://cursos.alura.com.br/course/git)
   - [Amazon EC2 Course: Deploy your webapp with high availability and scalability](https://cursos.alura.com.br/course/introducao-ao-cloud-do-ec2-no-aws)
   - [Amazon S3 course: Manipulate and store objects in the cloud](https://cursos.alura.com.br/course/aws-s3-manipule-e-armazene-na-nuvem)
+  - [Linux LPI Essentials Certification Part 1: Evolution and Distributions](https://cursos.alura.com.br/course/linux-essentials-1)
   - [Linux II course: Programs, processes and packages](https://cursos.alura.com.br/course/linux-ubuntu-processos)
   - [Linux Course I: Knowing and using the terminal](https://cursos.alura.com.br/course/linux-ubuntu)
