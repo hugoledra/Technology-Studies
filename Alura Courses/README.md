@@ -88,7 +88,17 @@
   - A programmatic view with the SDK
   - Warranty Versioning
   - Storage and life cycle classes
-  
+
+  [Linux LPI Essentials Certification Part 2: Open Source Software and Licensing](https://cursos.alura.com.br/course/linux-essentials-2)
+  - Philosophy of the open source world
+  - Licenses GPL, BSD, Apache and Mozilla
+  - Creative Commons Licenses
+  - Open source business model for enterprises
+  - Skills for using Ubuntu Desktop
+  - Cloud Computing and Virtualization
+  - Terminal and Console
+  - Good practices for safety
+
   [Linux LPI Essentials Certification Part 1: Evolution and Distributions](https://cursos.alura.com.br/course/linux-essentials-1)
   - Linux evolution: from minix to linux
   - What Linux Versions Have in Common
