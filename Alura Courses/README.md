@@ -89,6 +89,14 @@
   - Warranty Versioning
   - Storage and life cycle classes
 
+  [Linux LPI Essentials Certification Part 3: Command Line Basics](https://cursos.alura.com.br/course/linux-essentials-3)
+  - Command-line syntax
+  - Dealing with Shell and Environment Variables
+  - The PWD, PS1, and PS2 environment variables
+  - Globbing, quoting, history, and the PATH variable
+  - Exit status
+  - More about globbing and quoting
+
   [Linux LPI Essentials Certification Part 2: Open Source Software and Licensing](https://cursos.alura.com.br/course/linux-essentials-2)
   - Philosophy of the open source world
   - Licenses GPL, BSD, Apache and Mozilla
