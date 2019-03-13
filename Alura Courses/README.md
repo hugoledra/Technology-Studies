@@ -90,11 +90,11 @@
   - Storage and life cycle classes
 
   [Linux LPI Essentials Certification Part 4: Using the command line to get help](https://cursos.alura.com.br/course/linux-essentials-4)
-  Getting help with help
-  Using the man command for help
-  Navigating the info manuals
-  Knowing the HOWTOs
-  Finding files with locate
+  - Getting help with help
+  - Using the man command for help
+  - Navigating the info manuals
+  - Knowing the HOWTOs
+  - Finding files with locate
 
   [Linux LPI Essentials Certification Part 3: Command Line Basics](https://cursos.alura.com.br/course/linux-essentials-3)
   - Command-line syntax
