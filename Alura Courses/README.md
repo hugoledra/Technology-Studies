@@ -89,6 +89,12 @@
   - Warranty Versioning
   - Storage and life cycle classes
 
+  [Linux LPI Essentials Certification Part 5: Directories and Listing Files and Managing Files](https://cursos.alura.com.br/course/linux-essentials-5)
+  - Naming files
+  - Absolute, relative and ls paths
+  - Creating and Removing Directories
+  - Creating and Removing Files
+
   [Linux LPI Essentials Certification Part 4: Using the command line to get help](https://cursos.alura.com.br/course/linux-essentials-4)
   - Getting help with help
   - Using the man command for help
