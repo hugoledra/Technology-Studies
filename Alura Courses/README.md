@@ -89,6 +89,14 @@
   - Warranty Versioning
   - Storage and life cycle classes
 
+  [Linux LPI Essentials Certification Part 7: Searching and Extracting Data from Files](https://cursos.alura.com.br/course/linux-essentials-7)
+  - How to get information about files
+  - I/O Redirection
+  - Pipes on the command line
+  - Text processing with cut
+  - The sort command
+  - Regular expressions and grep
+
   [Linux LPI Essentials Certification Part 6: Archiving Files on the Command Line](https://cursos.alura.com.br/course/linux-essentials-6)
   - The tar command
   - Compression of files with gzip and bzip2
