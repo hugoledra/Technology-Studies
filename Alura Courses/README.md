@@ -89,6 +89,12 @@
   - Warranty Versioning
   - Storage and life cycle classes
 
+  [Linux LPI Essentials Certification Part 8: Transforming commands into a Script](https://cursos.alura.com.br/course/linux-essentials-8)
+  - Creating a Simple Script
+  - Variables and Arguments
+  - Loops
+  - Text editors
+
   [Linux LPI Essentials Certification Part 7: Searching and Extracting Data from Files](https://cursos.alura.com.br/course/linux-essentials-7)
   - How to get information about files
   - I/O Redirection
