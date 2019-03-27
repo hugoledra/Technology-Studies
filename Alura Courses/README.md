@@ -89,6 +89,12 @@
   - Warranty Versioning
   - Storage and life cycle classes
 
+  [Linux LPI Essentials Certification Part 9: Understanding Computer Hardware](https://cursos.alura.com.br/course/linux-essentials-9)
+  - The Processor
+  - The RAM memory
+  - Hard disk and partitions
+  - More on hardware
+
   [Linux LPI Essentials Certification Part 8: Transforming commands into a Script](https://cursos.alura.com.br/course/linux-essentials-8)
   - Creating a Simple Script
   - Variables and Arguments
