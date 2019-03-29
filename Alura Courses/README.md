@@ -89,6 +89,14 @@
   - Warranty Versioning
   - Storage and life cycle classes
 
+  [Linux LPI Essentials Certification Part 10: Where Data is Stored](https://cursos.alura.com.br/course/linux-essentials-10)
+  - The Filesystem Hierarchy Standard
+  - The /etc, /media and /mnt directories
+  - Understanding the /usr /lib directories and subdirectories
+  - More directories defined in the FHS
+  - Messaging and logging
+  - Processes
+
   [Linux LPI Essentials Certification Part 9: Understanding Computer Hardware](https://cursos.alura.com.br/course/linux-essentials-9)
   - The Processor
   - The RAM memory
