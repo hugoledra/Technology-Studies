@@ -88,6 +88,14 @@
   - A programmatic view with the SDK
   - Warranty Versioning
   - Storage and life cycle classes
+  
+  [Linux LPI Essentials Certification Part 11: Your Computer on the Network](https://cursos.alura.com.br/course/linux-essentials-11)
+  - IP address, ping and dig
+  - Introduction to IPv6
+  - Ifconfig, networks and internet
+  - DNS Lookup
+  - The IP command
+  - The netstat command
 
   [Linux LPI Essentials Certification Part 10: Where Data is Stored](https://cursos.alura.com.br/course/linux-essentials-10)
   - The Filesystem Hierarchy Standard
