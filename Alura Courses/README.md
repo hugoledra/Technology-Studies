@@ -88,7 +88,17 @@
   - A programmatic view with the SDK
   - Warranty Versioning
   - Storage and life cycle classes
-  
+
+  [Linux LPI Essentials Certification Part 12: Security and File Permissions](https://cursos.alura.com.br/course/linux-essentials-12)
+  - User Creation
+  - User info
+  - The Linux permissions system
+  - More about permissions
+  - Creation of new groups
+  - Special bit for running files
+  - Symbolic links and hardlinks
+  - Time to score
+
   [Linux LPI Essentials Certification Part 11: Your Computer on the Network](https://cursos.alura.com.br/course/linux-essentials-11)
   - IP address, ping and dig
   - Introduction to IPv6
