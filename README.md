@@ -8,7 +8,7 @@ Books:
 
 List of Completed Courses:
 
-#### [Udemy - Details of Courses Udemy](https://github.com/hugoledra/Technology-Studies/blob/master/Alura%20Courses/README.md)
+#### [Udemy - Details of Courses Udemy](https://github.com/hugoledra/Technology-Studies/blob/master/Udemy%20Courses/README.md)
   - [LPI Linux Essentials: Preparing for Certification](https://www.udemy.com/lpi-linux-essentials/)
 
 #### [Alura - Details of Courses Alura](https://github.com/hugoledra/Technology-Studies/blob/master/Alura%20Courses/README.md)
