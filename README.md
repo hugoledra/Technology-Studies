@@ -7,6 +7,10 @@ Books:
 ### Online Technology Courses
 
 List of Completed Courses:
+
+#### [Udemy - Details of Courses Udemy](https://github.com/hugoledra/Technology-Studies/blob/master/Alura%20Courses/README.md)
+  - [LPI Linux Essentials: Preparing for Certification](https://www.udemy.com/lpi-linux-essentials/)
+
 #### [Alura - Details of Courses Alura](https://github.com/hugoledra/Technology-Studies/blob/master/Alura%20Courses/README.md)
   - [Kubernetes: Introduction to container orchestration](https://cursos.alura.com.br/course/kubernetes)
   - [Amazon ECS: Manage Docker on the AWS Cloud](https://cursos.alura.com.br/course/docker-na-amazon-ecs)
