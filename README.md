@@ -34,5 +34,6 @@ List of Completed Courses:
   - [Linux LPI Essentials Certification Part 3: Command Line Basics](https://cursos.alura.com.br/course/linux-essentials-3)
   - [Linux LPI Essentials Certification Part 2: Open Source Software and Licensing](https://cursos.alura.com.br/course/linux-essentials-2)
   - [Linux LPI Essentials Certification Part 1: Evolution and Distributions](https://cursos.alura.com.br/course/linux-essentials-1)
+  - [Vim: Introduction and good practices editing in the terminal](https://cursos.alura.com.br/course/vim)
   - [Linux II course: Programs, processes and packages](https://cursos.alura.com.br/course/linux-ubuntu-processos)
   - [Linux Course I: Knowing and using the terminal](https://cursos.alura.com.br/course/linux-ubuntu)
