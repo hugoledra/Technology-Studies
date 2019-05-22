@@ -183,6 +183,14 @@
   - Fedora
   - CentOS
   
+  [Vim: Introduction and good practices editing in the terminal](https://cursos.alura.com.br/course/vim)
+  - Creating a header
+  - Setting up our editor
+  - Enhancing the footer
+  - Filling in the testimonial page
+  - Code pattern
+  - Testing the project on a virtual machine
+  
   [Linux II course: Programs, processes and packages](https://cursos.alura.com.br/course/linux-ubuntu-processos)
   - Kill, ps, grep, killall, top, jobs, bg, fg, pstree, &
   - Scripts and execute permissions: sh and chmod
