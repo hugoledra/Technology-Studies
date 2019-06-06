@@ -1,7 +1,18 @@
 ###### Courses in technology.
 
 **Completed courses:**
-  
+
+  [Programming Logic I: The first programs with Javascript and HTML](https://cursos.alura.com.br/course/logica-programacao-javascript-html)
+  - Start programming today
+  - Communicate with the user
+  - Make your program dynamic with variables
+  - Create your own features
+  - Practice solving problems of your daily life
+  - Run different codes depending on the condition
+  - Repeat tasks
+  - Interact differently with the user
+  - Work with lots of data
+
   [Kubernetes: Introduction to container orchestration](https://cursos.alura.com.br/course/kubernetes)
   - Introducing Kubernetes
   - Pod and Deployment
