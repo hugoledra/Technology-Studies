@@ -2,6 +2,13 @@
 
 **Completed courses:**
 
+  [Programming Logic II: Practice with drawings, animations and a game](https://cursos.alura.com.br/course/logica-programacao-pratica-com-desenho-animacoes-em-jogo)
+  - Drawing Graphics with Canvas
+  - Extracting Functions
+  - Interacting with the user
+  - Moving elements: simple animations
+  - Our first game
+
   [Programming Logic I: The first programs with Javascript and HTML](https://cursos.alura.com.br/course/logica-programacao-javascript-html)
   - Start programming today
   - Communicate with the user
