@@ -2,6 +2,17 @@
 
 **Completed courses:**
 
+  [JavaScript: Programming in the Web Language](https://cursos.alura.com.br/course/javascript-programando-na-linguagem-web)
+  - Introduction
+  - Variables and Operators
+  - Arrays, Loop and Styles
+  - Events, Forms, and Creating Elements
+  - Javascript Best Practices
+  - Forms Validation
+  - Removal, Delegation and Animation
+  - Filtering a table
+  - AjaxSearching
+
   [Programming Logic II: Practice with drawings, animations and a game](https://cursos.alura.com.br/course/logica-programacao-pratica-com-desenho-animacoes-em-jogo)
   - Drawing Graphics with Canvas
   - Extracting Functions
