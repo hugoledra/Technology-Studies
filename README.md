@@ -13,6 +13,7 @@ List of Completed Courses:
   - [LPI Linux Essentials: Preparing for Certification](https://www.udemy.com/lpi-linux-essentials/)
 
 #### [Alura - Details of Courses Alura](https://github.com/hugoledra/Technology-Studies/blob/master/Alura%20Courses/README.md)
+  - [JavaScript: Programming in the Web Language](https://cursos.alura.com.br/course/javascript-programando-na-linguagem-web)
   - [Programming Logic II: Practice with drawings, animations and a game](https://cursos.alura.com.br/course/logica-programacao-pratica-com-desenho-animacoes-em-jogo)
   - [Programming Logic I: The first programs with Javascript and HTML](https://cursos.alura.com.br/course/logica-programacao-javascript-html)
   - [Kubernetes: Introduction to container orchestration](https://cursos.alura.com.br/course/kubernetes)
