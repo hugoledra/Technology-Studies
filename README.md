@@ -1,10 +1,5 @@
 ## Technology-Studies
-Repository for technology courses and books
-
-Books:
-  - Desconstruindo a Web by Willian Molinari > [Buy the Kindle book here (Portuguese language)](https://www.amazon.com.br/gp/product/B01L7VDZC0/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1)
-  - DevOps na Prática by Danilo Sato > [Buy the Kindle book here (Portuguese language)](https://www.amazon.com.br/DevOps-pr%C3%A1tica-software-confi%C3%A1vel-automatizada-ebook/dp/B00VRS7WRS/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1545829621&sr=1-1&keywords=devops)
-  - Big Data by Mayer-Schonberger, Viktor, Cukier, Kenneth
+Repository for technology courses
 
 ### Online Technology Courses
 
